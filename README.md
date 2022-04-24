@@ -1,2 +1,2 @@
-# reacto-route-practice
+# react-practice
 Created with CodeSandbox
